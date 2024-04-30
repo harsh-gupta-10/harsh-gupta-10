@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/25/9f/b6/259fb6b1bd2762f1ce5c3f1d9116630b.gif"></img>
+<center><img src="https://i.pinimg.com/originals/25/9f/b6/259fb6b1bd2762f1ce5c3f1d9116630b.gif"></img></center>
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">I do like IoT ,Coding ,Sketching, Cycling, etc.</h3>
 
