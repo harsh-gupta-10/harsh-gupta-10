@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-gupta-10" alt="harsh-gupta-10" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [not made yet](not made yet)
+- 👨‍💻 All of my projects are available at https://github.com/harsh-gupta-10?tab=repositories
 
 - 💬 Ask me about **HTML, CSS, Circuit/Micro Python, Python etc**
 
